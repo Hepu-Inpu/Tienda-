@@ -1,0 +1,22 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
++ 1 cdn.jsp
+commons/cdn.jsp
++ 2 cabecera.jsp
+commons/cabecera.jsp
++ 3 pie.jsp
+commons/pie.jsp
+*L
+1,8:51
+1#1,7:59
+8#0,5:66
+1#2,46:71
+12#0,3:116
+1#3,8:119
+14#0,5:127
+*E

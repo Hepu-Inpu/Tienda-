@@ -1,0 +1,28 @@
+.sidebar-col{
+     background-color: black;
+    color: white;
+    font-size: 20px;
+    min-height: 100vh;
+    padding: inherit;
+    max-width: 15%;
+}
+
+.sidebar-col a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    width: 80%;
+    display: block;
+    transition: 1s;
+    padding: 8px;
+    margin-left: 20px;
+    text-align:center;
+}
+
+.sidebar-col a:hover{
+    background-color: #FFE5B4;
+    border-radius: 100px;
+  
+}
+
+

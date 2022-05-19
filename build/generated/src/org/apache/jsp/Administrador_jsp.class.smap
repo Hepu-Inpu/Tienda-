@@ -1,0 +1,36 @@
+SMAP
+Administrador_jsp.java
+JSP
+*S JSP
+*F
++ 0 Administrador.jsp
+Administrador.jsp
++ 1 CDN(4).jsp
+commons/CDN(4).jsp
++ 2 Cabecera_A.jsp
+commons/Co_Admin/Cabecera_A.jsp
++ 3 SideBar_A.jsp
+commons/Co_Admin/SideBar_A.jsp
+*L
+5,13:55
+1#1,6:68
+17#0,5:74
+1#2,16:79
+21#0,5:94
+1#3,7:99
+25#0,8:105
+33:113,3
+34,3:116
+37:119,3
+38,3:122
+41:125,3
+42,3:128
+45:131,3
+46,25:134
+72,5:161
+76,2:166
+78,8:168,3
+86,2:192
+88,2:195
+89,8:197
+*E

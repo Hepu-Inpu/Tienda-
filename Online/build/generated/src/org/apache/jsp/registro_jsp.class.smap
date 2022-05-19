@@ -1,0 +1,18 @@
+SMAP
+registro_jsp.java
+JSP
+*S JSP
+*F
++ 0 registro.jsp
+registro.jsp
++ 1 cdn.jsp
+commons/cdn.jsp
++ 2 cabecera.jsp
+commons/cabecera.jsp
+*L
+5,9:50
+1#1,7:59
+13#0,5:66
+1#2,46:71
+17#0,39:116
+*E
